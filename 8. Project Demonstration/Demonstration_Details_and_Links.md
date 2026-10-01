@@ -9,8 +9,8 @@
 ---
 
 ## 2. Environment & Demonstration Artifacts
-- **Instance URL:** `https://devXXXXX.service-now.com` *(Replace with your PDI instance URL)*
-- **Demo Video Link:** [Add your recorded demo video link - Google Drive / YouTube unlisted link]
+- **Instance URL:** `https://dev429449.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=LWA0s%3Ddd9%24Ig*
+- **Demo Video Link:** `https://drive.google.com/file/d/1oqSAnufK2hs4p50-74PSigiQMSli9DF0/view?usp=drivesdk`
 - **Target Record Table:** `Incident [incident]`
 
 ---
