@@ -5,8 +5,8 @@
 | Role / Team Member | Primary Responsibility | Platform Tools |
 | :--- | :--- | :--- |
 | **Team Leader (Arjun D)** | Architecture design, ACL scripting, and repository management | ServiceNow Studio, GitHub |
-| **Team Member 2** | Requirement gathering, test scenario execution, and impersonation checks | ServiceNow PDI |
-| **Team Member 3** | Documentation, markdown drafting, and milestone tracking | VS Code, Markdown Editor |
+| **Team Member (Gnana selva kumar M)** | Requirement gathering, test scenario execution, and impersonation checks | ServiceNow PDI |
+| **Team Member (Jayasurya M)** | Documentation, markdown drafting, and milestone tracking | VS Code, Markdown Editor |
 
 ---
 
